@@ -13,5 +13,3 @@ This project uses the GitHub API to gather user profiles and their repositories,
 ## Interesting Fact
 I found that many users have a high number of repositories but vary in their activity levels.
 
-## Recommendation
-Developers should consider contributing to open-source projects in their area to build connections and enhance their portfolios.
